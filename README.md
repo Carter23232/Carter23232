@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enock</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+<img align="center" alt="Coding" width="600" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 - 🔭 I’m currently working on [printf function with c](https://github.com/Over-lord12/printf)
 
 - 🌱 I’m currently learning **python**
