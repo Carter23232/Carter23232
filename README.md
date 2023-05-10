@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enock Asante</h1>
+<h1 align="center">Hi 👋, I'm Enock</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/bQ8uA.gif">
 - 🔭 I’m currently working on [printf function with c](https://github.com/Over-lord12/printf)
