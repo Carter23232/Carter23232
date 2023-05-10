@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enock</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bQ8uA.gif">
+<img align="right" alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="25018018" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dev_animado-gif-25018018">Dev_animado GIF</a>from <a href="https://tenor.com/search/dev_animado-gifs">Dev_animado GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 - 🔭 I’m currently working on [printf function with c](https://github.com/Over-lord12/printf)
 
 - 🌱 I’m currently learning **python**
