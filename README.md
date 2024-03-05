@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Enock</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭current project - printf
-                    - simple_shell https://github.com/Carter23232/simple_shell.git
-                    - monty https://github.com/Carter23232/monty.git
-
-
+- 🔭current project
+- - printf
+- - simple_shell https://github.com/Carter23232/simple_shell.git
+- - monty https://github.com/Carter23232/monty.git
 
 - 🌱 I’m currently learning **python**
 
