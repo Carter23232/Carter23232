@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer</h3>
 
 - 🔭current project
-- - printf
-- - simple_shell https://github.com/Carter23232/simple_shell.git
-- - monty https://github.com/Carter23232/monty.git
+_- printf
+_- simple_shell https://github.com/Carter23232/simple_shell.git
+_- monty https://github.com/Carter23232/monty.git
 
 - 🌱 I’m currently learning **python**
 
